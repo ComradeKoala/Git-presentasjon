@@ -1,4 +1,6 @@
 ﻿dfgsdfasdgafhdslfgsldgjldsglsglws hei
+<<<<<<< HEAD
 
-
-
+dette er en konflikt 
+adkgbadflg
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
